@@ -11,17 +11,27 @@
   </p>
 </div>
 <div>
-<h3>Projects:</h3>
- <div align="left">
-  <h4>Programmig</h4>
-  🎵 <b>MyTag</b><br>
-  📺 <b>Float</b><br>
-  🥁 <b>Drummingthon</b><br>
- </div>
- <div align="right">
-   <h4>Music</h4>
-  🎸 <b>Liquid Normal</b><br>
- 🧵 <b>God's Old Forgotten Projects</b><br>
-  🖥 <b>Mad-Slip</b><br>
+ <br><br><br>
+ <center>
+  <table>
+  <tr><td colspan="2"><b style="text-align: center;">Projects</b></td></tr>
+  <tr>
+   <td><b>Programming</b></td>
+   <td><b>Music</b></td>
+  </tr>
+  <tr>
+   <td>🎵 MyTag</td>
+   <td>🎸 Liquid Normal</td>
+  </tr>
+  <tr>
+   <td>📺 Float</td>
+   <td>🧵 God's Old Forgotten Projects</td>
+  </tr>
+  <tr>
+   <td>🥁 Drummingthon</td>
+   <td>🖥 Mad-Slip</td>
+  </tr>
+  </table>
+ </center>
 </div>
 </div>
