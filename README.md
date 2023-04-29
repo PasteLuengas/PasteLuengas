@@ -1,4 +1,4 @@
-![PasteLuengas](https://raw.githubusercontent.com/PasteLuengas/PasteLuengas/main/main_image.png "Oh Eh Oh I Look Just Linke Buddy Holly")
+![PasteLuengas](https://raw.githubusercontent.com/PasteLuengas/PasteLuengas/main/main_image.jpg "Oh Eh Oh I Look Just Linke Buddy Holly :)")
 <div>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasteluengas&show_icons=true&locale=en&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be">
   
